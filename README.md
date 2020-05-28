@@ -11,8 +11,10 @@ nltk
 keras
 gensim
 sklearn
+numpy
+tqdm
 ```
-It is possible to apply the code to Google's Colab.
+It is possible to apply the code to Google's Colab if you have trouble installing these Python packages.
 To use this code, have both files in the same folder and run from top to bottom.
 
 ##Included Files
