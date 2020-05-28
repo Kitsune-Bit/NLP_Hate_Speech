@@ -24,3 +24,4 @@ twitter_data.csv is the training dataset, and NLP_final.ipynb is the notebook fi
 ## Data Set
 We have used the data set provided by Thomas Davidson @thomasrdavidson.
 You can view that link here: https://data.world/thomasrdavidson/hate-speech-and-offensive-language
+We have additionally used sentiment140 for this project. Since this is a personal academic project, it is not open source.
