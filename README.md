@@ -7,12 +7,12 @@ lanuage.
 ## Getting Started
 To get started, there are a couple of Python packages that are required to be installed.
 ```
-*nltk
-*keras
-*gensim
-*sklearn
-*numpy
-*tqdm
+nltk
+keras
+gensim
+sklearn
+numpy
+tqdm
 ```
 It is possible to apply the code to Google's Colab if you have trouble installing these Python packages.
 To use this code, have both files in the same folder and run from top to bottom.
